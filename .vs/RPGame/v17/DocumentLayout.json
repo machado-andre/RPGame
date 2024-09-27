@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Andre\\source\\repos\\jogorpg\\RPGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46506ABB-D6F9-473F-8727-193AB97F073C}|RPGame.csproj|c:\\users\\andre\\source\\repos\\jogorpg\\rpgame\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46506ABB-D6F9-473F-8727-193AB97F073C}|RPGame.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46506ABB-D6F9-473F-8727-193AB97F073C}|RPGame.csproj|c:\\users\\andre\\source\\repos\\jogorpg\\rpgame\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46506ABB-D6F9-473F-8727-193AB97F073C}|RPGame.csproj|solutionrelative:home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46506ABB-D6F9-473F-8727-193AB97F073C}|RPGame.csproj|C:\\Users\\Andre\\source\\repos\\jogorpg\\RPGame\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46506ABB-D6F9-473F-8727-193AB97F073C}|RPGame.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46506ABB-D6F9-473F-8727-193AB97F073C}|RPGame.csproj|C:\\Users\\Andre\\source\\repos\\jogorpg\\RPGame\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46506ABB-D6F9-473F-8727-193AB97F073C}|RPGame.csproj|solutionrelative:home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46506ABB-D6F9-473F-8727-193AB97F073C}|RPGame.csproj|c:\\users\\andre\\source\\repos\\jogorpg\\rpgame\\classes\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46506ABB-D6F9-473F-8727-193AB97F073C}|RPGame.csproj|solutionrelative:classes\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46506ABB-D6F9-473F-8727-193AB97F073C}|RPGame.csproj|c:\\users\\andre\\source\\repos\\jogorpg\\rpgame\\classes\\minion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46506ABB-D6F9-473F-8727-193AB97F073C}|RPGame.csproj|solutionrelative:classes\\minion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46506ABB-D6F9-473F-8727-193AB97F073C}|RPGame.csproj|c:\\users\\andre\\source\\repos\\jogorpg\\rpgame\\rpgamedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46506ABB-D6F9-473F-8727-193AB97F073C}|RPGame.csproj|solutionrelative:rpgamedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46506ABB-D6F9-473F-8727-193AB97F073C}|RPGame.csproj|c:\\users\\andre\\source\\repos\\jogorpg\\rpgame\\classes\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46506ABB-D6F9-473F-8727-193AB97F073C}|RPGame.csproj|solutionrelative:classes\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46506ABB-D6F9-473F-8727-193AB97F073C}|RPGame.csproj|c:\\users\\andre\\source\\repos\\jogorpg\\rpgame\\classes\\miniontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46506ABB-D6F9-473F-8727-193AB97F073C}|RPGame.csproj|solutionrelative:classes\\miniontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46506ABB-D6F9-473F-8727-193AB97F073C}|RPGame.csproj|c:\\users\\andre\\source\\repos\\jogorpg\\rpgame\\classes\\being.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46506ABB-D6F9-473F-8727-193AB97F073C}|RPGame.csproj|solutionrelative:classes\\being.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46506ABB-D6F9-473F-8727-193AB97F073C}|RPGame.csproj|c:\\users\\andre\\source\\repos\\jogorpg\\rpgame\\classes\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46506ABB-D6F9-473F-8727-193AB97F073C}|RPGame.csproj|solutionrelative:classes\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Andre\\source\\repos\\jogorpg\\RPGame\\Home.cs",
+              "RelativeDocumentMoniker": "Home.cs",
+              "ToolTip": "C:\\Users\\Andre\\source\\repos\\jogorpg\\RPGame\\Home.cs [Design]",
+              "RelativeToolTip": "Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T11:49:54.888Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.cs",
+              "DocumentMoniker": "C:\\Users\\Andre\\source\\repos\\jogorpg\\RPGame\\Home.cs",
+              "RelativeDocumentMoniker": "Home.cs",
+              "ToolTip": "C:\\Users\\Andre\\source\\repos\\jogorpg\\RPGame\\Home.cs",
+              "RelativeToolTip": "Home.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAQwFAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T12:51:50.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Location.cs",
+              "DocumentMoniker": "C:\\Users\\Andre\\source\\repos\\jogorpg\\RPGame\\Classes\\Location.cs",
+              "RelativeDocumentMoniker": "Classes\\Location.cs",
+              "ToolTip": "C:\\Users\\Andre\\source\\repos\\jogorpg\\RPGame\\Classes\\Location.cs",
+              "RelativeToolTip": "Classes\\Location.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T10:10:30.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Being.cs",
+              "DocumentMoniker": "C:\\Users\\Andre\\source\\repos\\jogorpg\\RPGame\\Classes\\Being.cs",
+              "RelativeDocumentMoniker": "Classes\\Being.cs",
+              "ToolTip": "C:\\Users\\Andre\\source\\repos\\jogorpg\\RPGame\\Classes\\Being.cs",
+              "RelativeToolTip": "Classes\\Being.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T10:01:30.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RPGameDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Andre\\source\\repos\\jogorpg\\RPGame\\RPGameDbContext.cs",
+              "RelativeDocumentMoniker": "RPGameDbContext.cs",
+              "ToolTip": "C:\\Users\\Andre\\source\\repos\\jogorpg\\RPGame\\RPGameDbContext.cs",
+              "RelativeToolTip": "RPGameDbContext.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T22:13:06.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Andre\\source\\repos\\jogorpg\\RPGame\\Classes\\Player.cs",
+              "RelativeDocumentMoniker": "Classes\\Player.cs",
+              "ToolTip": "C:\\Users\\Andre\\source\\repos\\jogorpg\\RPGame\\Classes\\Player.cs",
+              "RelativeToolTip": "Classes\\Player.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T22:12:27.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MinionType.cs",
+              "DocumentMoniker": "C:\\Users\\Andre\\source\\repos\\jogorpg\\RPGame\\Classes\\MinionType.cs",
+              "RelativeDocumentMoniker": "Classes\\MinionType.cs",
+              "ToolTip": "C:\\Users\\Andre\\source\\repos\\jogorpg\\RPGame\\Classes\\MinionType.cs",
+              "RelativeToolTip": "Classes\\MinionType.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T17:48:44.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\Andre\\source\\repos\\jogorpg\\RPGame\\Classes\\Item.cs",
+              "RelativeDocumentMoniker": "Classes\\Item.cs",
+              "ToolTip": "C:\\Users\\Andre\\source\\repos\\jogorpg\\RPGame\\Classes\\Item.cs",
+              "RelativeToolTip": "Classes\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T17:33:46.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Minion.cs",
+              "DocumentMoniker": "C:\\Users\\Andre\\source\\repos\\jogorpg\\RPGame\\Classes\\Minion.cs",
+              "RelativeDocumentMoniker": "Classes\\Minion.cs",
+              "ToolTip": "C:\\Users\\Andre\\source\\repos\\jogorpg\\RPGame\\Classes\\Minion.cs",
+              "RelativeToolTip": "Classes\\Minion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T17:20:47.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Andre\\source\\repos\\jogorpg\\RPGame\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\Andre\\source\\repos\\jogorpg\\RPGame\\Login.cs",
+              "RelativeToolTip": "Login.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T17:14:40.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Andre\\source\\repos\\jogorpg\\RPGame\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\Andre\\source\\repos\\jogorpg\\RPGame\\Login.cs [Design]",
+              "RelativeToolTip": "Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T17:14:12.386Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
